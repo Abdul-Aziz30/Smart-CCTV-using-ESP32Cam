@@ -1,7 +1,7 @@
 # Smart-CCTV-using-ESP32Cam
 Smart CCTV : For Home Security by Kijang Emas merupakan projek akhir Mata Kuliah Praktikum Internet of Things berbasis ESP32 Cam.
 
-Daftar alat yang kami perlukan untuk membuat perangkat CCCTV ini antara lain:
+Daftar alat yang kami perlukan untuk membuat perangkat CCTV ini antara lain:
 1. ESP 32Cam
 2. Sensor Ultrasonik HC-SR04
 3. Buzzer 5V
@@ -17,4 +17,4 @@ Perangkat ini menggunakan aplikasi Telegram untuk mengatur atau memantau perangk
 4. Menghidup atau matikan buzzer
 5. Mengatur jarak yang dapat dideteksi perangkat
 
-Untuk melihat laporan lengkap dari Project Kelompok kami dapat melihat [Jurnal berikut](https://github.com/alandhar/Smart-CCTV-using-ESP32Cam/blob/main/Jurnal-IoT-Kijang-Emas.pdf) sedangkan untuk [codenya berikut](/Program/KijangEmas-SmartCCTV_using_ESP32Cam/KijangEmas-SmartCCTV_using_ESP32Cam.ino)
+Untuk melihat laporan lengkap dari Project Kelompok kami dapat melihat [Jurnal berikut](https://github.com/alandhar/Smart-CCTV-using-ESP32Cam/blob/main/Jurnal-IoT-Kijang-Emas.pdf) sedangkan untuk code klik [disini](/Program/KijangEmas-SmartCCTV_using_ESP32Cam/KijangEmas-SmartCCTV_using_ESP32Cam.ino)
